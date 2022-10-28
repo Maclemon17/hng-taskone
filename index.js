@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
             "slackUsername": "Maclemon",
             "backend": true,
             "age": 23,
-            "bio": "I am Elijah Tosin Adegoke, a student and software deveoper from Oyo state, Nigeria. Born december 17"
+            "bio": "I am Elijah Tosin Adegoke, a student and software deveoper from Oyo state, Nigeria. Born december 17."
         }
     )
 })
